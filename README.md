@@ -1,3 +1,3 @@
 # public-assets
-Repository contains 
+Location for all assets to be shared publicly
 
